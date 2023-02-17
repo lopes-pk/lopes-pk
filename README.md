@@ -6,5 +6,5 @@
 - 🌱 React.js
 
 <div>
-  <a href="https://github.com/lopes-pk/">
+  <a href="https://github.com/lopes-pk/"/>
 <div/>
