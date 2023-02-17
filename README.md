@@ -1,5 +1,5 @@
-### Olá Devs. Me chamo Arthur! 👾👋
-É um prazer recebe-lo aqui 
+### Olá Devs. Me chamo Arthur 👾👋
+É um prazer recebe-lo aqui!
 
 
 <div style="display: inline_block"><br>
