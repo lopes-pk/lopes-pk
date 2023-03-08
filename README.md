@@ -1,5 +1,5 @@
 ### Olá Devs. Me chamo Arthur 👾👋
-<h4>É um prazer recebe-lo(a) aqui!</h4>
+<strong>É um prazer recebe-lo(a) aqui!</strong>
 Já aproveitando, porque não dar uma olhada nos repositórios 
 
 <div style="display: inline_block"><br>
