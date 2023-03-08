@@ -1,6 +1,6 @@
 ### Olá Devs. Me chamo Arthur 👾👋<br><br>
 <h3>É um prazer recebe-lo(a) aqui!</h3>
-Já aproveitando, porque não dar uma olhada nos repositórios 
+Já aproveitando, porque não dar uma olhada nos repositórios? 🙂
 
 <div style="display: inline_block"><br><br>
   Atualmente sei desenvolver nas seguintes tecnologias:<br><br>
