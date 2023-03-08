@@ -2,7 +2,7 @@
 <h3>É um prazer recebe-lo(a) aqui!</h3>
 Já aproveitando, porque não dar uma olhada nos repositórios 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
   Atualmente sei desenvolver nas seguintes tecnologias:<br><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
