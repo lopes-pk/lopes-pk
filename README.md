@@ -1,5 +1,5 @@
 # Olá Dev! Seja bem-vindo(a) 👾👋<br><br>
-<h3>É um prazer recebe-lo aqui!</h3>
+<h2>É um prazer recebe-lo aqui!</h2>
 Já aproveitando, porque não dar uma olhada nos repositórios!🙂
 
 <div style="display: inline_block"><br><br>
