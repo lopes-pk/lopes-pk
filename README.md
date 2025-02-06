@@ -1,4 +1,4 @@
-# Olá Dev! Seja bem-vindo(a) 👾👋<br><br>
+# Olá! Seja bem-vindo(a) 👋<br><br>
 <h2>É um prazer recebe-lo aqui!</h2>
 Já aproveitando, porque não dar uma olhada nos repositórios! 😁
 
