@@ -1,22 +1,24 @@
-# Olá! Seja bem-vindo(a) 👋<br><br>
-<h2>É um prazer recebe-lo aqui!</h2>
-Já aproveitando, porque não dar uma olhada nos repositórios! 😁
+# Olá Dev! Me chamo Arthur Lopes! 👋<br>
 
-<div style="display: inline_block"><br><br>
-  Prinicipais tecnologias:<br><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-  ##
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopes-pk&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-<div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:arthurlopes558@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/arthur-lopes-2bb543252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- 
-</div>
-</div>
+#### Apaixonado por tecnologia, transformo desafios em inovações e ideias<br> em linhas de código, sempre em busca de aprender mais.<br><br>
+
+## 👨🏻‍💻 Technical skills<br>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+## 📱 Social media<br>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531989569699?text=)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurlopes588@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lopes-pk/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lopes-pk)
+<br><br>
+![lopes-pk GitHub stats](https://github-readme-stats.vercel.app/api?username=lopes-pk&show_icons=true&theme=tokyonight)<br><br>
+
+##### " Aprender sem refletir é trabalho perdido; refletir sem aprender é perigoso".
+###### -Confúcio
