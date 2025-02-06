@@ -20,5 +20,5 @@
 <br><br>
 ![lopes-pk GitHub stats](https://github-readme-stats.vercel.app/api?username=lopes-pk&show_icons=true&theme=tokyonight)<br><br>
 
-##### " Aprender sem refletir é trabalho perdido; refletir sem aprender é perigoso".
+##### "Aprender sem refletir é trabalho perdido; refletir sem aprender é perigoso".
 ###### -Confúcio
