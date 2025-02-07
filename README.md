@@ -2,7 +2,7 @@
 
 #### Apaixonado por tecnologia, transformo desafios em inovações e ideias<br> em linhas de código, sempre em busca de aprender mais.<br><br>
 
-## 👨🏻‍💻 Technical skills<br>
+## 🖥️ Technical skills<br> 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
