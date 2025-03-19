@@ -1,6 +1,6 @@
 # Olá Dev! Me chamo Arthur Lopes! 👋<br>
 
-#### Apaixonado por tecnologia, transformo desafios em inovações e ideias<br> em linhas de código, sempre em busca de aprender mais.<br><br>
+#### Amante de tecnologia e desenvolvedor de software, busco transformar desafios, inovações e ideias<br> em linhas de código e levar um estilo de vida como um programador good vibes sempre em busca de aprender mais.<br><br>
 
 ## 🖥️ Technical skills<br> 
 
